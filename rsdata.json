@@ -28,6 +28,12 @@
         "key": "siaptuba",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "bcced2edebe2255b",
+        "key": "sinung123",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
     
 ]
