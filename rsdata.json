@@ -42,6 +42,12 @@
         "expirydate": "30-12-2026",
         "Allowoffline": false
     }
-     
+     ,
+{
+        "device_id": "6e466890a21cc92d",
+        "key": "siap123",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
+    }
 ]
 
