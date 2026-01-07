@@ -34,22 +34,19 @@
         "key": "sinung123",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-    }
-   ,
+    },
 {
         "device_id": "8148862e1a77c99c",
         "key": "tuba123",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-    }
-     ,
+    },
 {
         "device_id": "3ad5a6d07f5eedd2",
         "key": "tuba123",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-}
-    , 
+},
 {
         "device_id": "6e466890a21cc92d",
         "key": "siap123",
