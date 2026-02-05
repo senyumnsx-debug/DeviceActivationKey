@@ -65,6 +65,12 @@
         "key": "ari123",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    }, 
+{
+        "device_id": "f73b4d7470974565",
+        "key": "sd1111",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
 
