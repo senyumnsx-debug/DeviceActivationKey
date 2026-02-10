@@ -71,6 +71,12 @@
         "key": "sd1111",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+    }, 
+{
+        "device_id": "b2cfe5a97c013340",
+        "key": "ys11",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
 
