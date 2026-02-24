@@ -77,6 +77,19 @@
         "key": "ys11",
         "expirydate": "30-12-2026",
         "Allowoffline": false
+}
+    , 
+{
+        "device_id": "1",
+        "key": "se11",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
+    }, 
+{
+        "device_id": "2",
+        "key": "se22",
+        "expirydate": "30-12-2026",
+        "Allowoffline": false
     }
 ]
 
