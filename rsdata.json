@@ -96,6 +96,12 @@
         "key": "arya1",
         "expirydate": "30-12-2027",
         "Allowoffline": false
+}, 
+{
+        "device_id": "04cf88cc39749e15",
+        "key": "ed01",
+        "expirydate": "30-04-2027",
+        "Allowoffline": false
 }
 ]
 
