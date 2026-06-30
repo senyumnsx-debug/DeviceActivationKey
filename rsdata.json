@@ -109,5 +109,12 @@
         "expirydate": "30-04-2027",
         "Allowoffline": false
 }
+    , 
+{
+        "device_id": "4f60fefa3a37e26c",
+        "key": "sp01",
+        "expirydate": "30-04-2027",
+        "Allowoffline": false
+}
 ]
 
