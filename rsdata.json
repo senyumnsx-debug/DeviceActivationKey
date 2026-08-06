@@ -116,5 +116,12 @@
         "expirydate": "30-04-2027",
         "Allowoffline": false
 }
+    , 
+{
+        "device_id": "5a52897547122aac",
+        "key": "wa01",
+        "expirydate": "30-04-2027",
+        "Allowoffline": false
+}
 ]
 
