@@ -144,5 +144,18 @@
         "expirydate": "30-04-2027",
         "Allowoffline": false
 }
+    ,
+    {
+    "key": "12341234",
+    "device_id": "5eebd2245fcfd6d5",
+    "expirydate": "30-04-2027",
+    "Allowoffline": true,
+    "location": {
+      "enabled": true,
+      "latitude": -4.282504664341849,
+      "longitude": 105.48986435268831,
+      "radius_meter": 100
+    }
+  }
 ]
 
