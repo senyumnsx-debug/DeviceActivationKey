@@ -128,7 +128,7 @@
         "device_id": "5eebd2245fcfd6d5",
         "key": "0001",
         "expirydate": "30-04-2027",
-        "Allowoffline": false
+        "Allowoffline": true
 }
         , 
 {
