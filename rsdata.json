@@ -153,10 +153,11 @@
 }
             , 
 {
-        "device_id": "0003",
-        "key": "0003",
-        "expirydate": "30-10-2027",
-        "Allowoffline": false
+  "id": "faeadc66f3bf07ac",
+  "expired": "2026-12-31",
+  "latitude": -4.2831504,
+  "longitude": 105.491327,
+  "radius": 100
 }
 ]
 
