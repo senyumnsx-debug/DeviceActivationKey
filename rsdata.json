@@ -1,15 +1,4 @@
 [
-  {
-    "device_id": "faeadc66f3bf07ac",
-    "expired": "2026-12-31",
-    "apel_latitude": -4.2831504,
-    "apel_longitude": 105.491327,
-    "apel_radius": 100,
-    "kantor_latitude": -4.2815000,
-    "kantor_longitude": 105.4890000,
-    "kantor_radius": 100
-  }
-    ,
     {
         "device_id": "279becdfb5927636",
         "key": "yy11",
