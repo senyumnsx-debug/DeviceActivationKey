@@ -2,10 +2,10 @@
   "devices": {
     "ISI_ANDROID_ID_PERANGKAT_1": {
       "status": "active",
-      "lat": "-4.123456",
-      "lng": "105.123456",
-      "lat_apel": "-4.654321",
-      "lng_apel": "105.654321",
+      "lat": "-4.2826698",
+      "lng": "105.489727",
+      "lat_apel": "-4.2826698",
+      "lng_apel": "105.489727",
       "expire": 1798675200,
       "sign": ""
     },
