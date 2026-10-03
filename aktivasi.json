@@ -1,12 +1,16 @@
-[
-  {
-    "device_id": "faeadc66f3bf07ac",
-    "expired": "2026-12-31",
-    "apel_latitude": -4.2831504,
-    "apel_longitude": 105.491327,
-    "apel_radius": 100,
-    "kantor_latitude": -4.2815000,
-    "kantor_longitude": 105.4890000,
-    "kantor_radius": 100
+{
+  "devices": {
+    "ISI_ANDROID_ID_PERANGKAT_1": {
+      "status": "active",
+      "lat": "-4.123456",
+      "lng": "105.123456",
+      "lat_apel": "-4.654321",
+      "lng_apel": "105.654321",
+      "expire": 1798675200,
+      "sign": ""
+    },
+    "ISI_ANDROID_ID_PERANGKAT_2": {
+      "status": "pending"
+    }
   }
-]
+}
