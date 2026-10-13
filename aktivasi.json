@@ -1,8 +1,15 @@
-[{
-    "android_id": "ABC123456",
-    "status": "active",
-    "expire": 1790812800,
-    "lat": "-4.2826698",
-    "lng": "105.489727",
-    "sign": ""
-}]
+[
+{
+        "device_id": "2814a508a7af7f6b",
+        "expirydate": "01-01-2027"
+    },
+{
+        "device_id": "a23969b0ebd8a69b",
+        "expirydate": "01-01-2027"
+    },
+{
+        "device_id": "440578044be8d4fe",
+        "expirydate": "01-12-2027"
+    }
+]
+
