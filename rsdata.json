@@ -4,16 +4,16 @@
         "key": "yy11",
         "expirydate": "31-12-2026",
         "Allowoffline": false
-    }, 
+    },
 {
         "device_id": "2814a508a7af7f6b",
         "expirydate": "01-01-2027"
-}, 
+    },
 {
         "device_id": "a23969b0ebd8a69b",
         "expirydate": "01-01-2027"
-},
-    {
+    },
+{
         "device_id": "125b49215e245d72",
         "key": "sh01",
         "expirydate": "31-12-2026",
@@ -54,20 +54,19 @@
         "key": "siapsiap",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-},
+    },
 {
         "device_id": "c8f6f010e0df3a80",
         "key": "y1234",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-}, 
+    }, 
 {
         "device_id": "fc96512717e1a1c4",
         "key": "puan1234",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-    }
-    , 
+    }, 
 {
         "device_id": "ecd656442413f9b1",
         "key": "ari123",
@@ -85,8 +84,7 @@
         "key": "ys11",
         "expirydate": "30-12-2026",
         "Allowoffline": false
-}
-    , 
+    }, 
 {
         "device_id": "8872448db14d512d",
         "key": "pocof6",
@@ -98,7 +96,7 @@
         "key": "st01",
         "expirydate": "30-10-2027",
         "Allowoffline": false
-}, 
+    }, 
 {
         "device_id": "5eebd2245fcfd6d5",
         "key": "ri01",
@@ -110,47 +108,41 @@
         "key": "arya1",
         "expirydate": "30-12-2027",
         "Allowoffline": false
-}, 
+    }, 
 {
         "device_id": "04cf88cc39749e15",
         "key": "ed01",
         "expirydate": "30-04-2027",
         "Allowoffline": false
-}
-    , 
+    }, 
 {
         "device_id": "4f60fefa3a37e26c",
         "key": "sp01",
         "expirydate": "30-04-2027",
         "Allowoffline": false
-}
-    , 
+    }, 
 {
         "device_id": "5a52897547122aac",
         "key": "wa01",
         "expirydate": "30-04-2027",
         "Allowoffline": false
-}
-        , 
+    }, 
 {
         "device_id": "5eebd2245fcfd6d5",
         "key": "0001",
         "expirydate": "30-04-2028",
         "Allowoffline": true
-}
-        , 
+    }, 
 {
         "device_id": "a16c4a568020ce25",
         "key": "0002",
         "expirydate": "30-11-2027",
         "Allowoffline": false
-}
-        , 
+    }, 
 {
         "device_id": "440578044be8d4fe",
         "expirydate": "30-10-2027"
-}
-            , 
+    }, 
 {
         "device_id": "0003",
         "key": "0003",
